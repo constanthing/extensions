@@ -1,0 +1,7 @@
+manifest.json
+- explains the extensions capabilities and configurations
+= action key
+- "default_icon" -> declares extension icon
+- "default_popup" -> declares html page to show in popup when icon is clicked
+= name key
+- declares the "title" of the extension that appears when hovering over the icon
